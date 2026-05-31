@@ -45,8 +45,8 @@ An enterprise-grade mobile solution developed for industrial field operations, d
 ### 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmetveysels&show_icons=true&theme=tokyonight&count_private=true" alt="Ahmet's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetveysels&layout=compact&theme=tokyonight&hide=html,css,javascript" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetveysels&theme=tokyonight" alt="GitHub Streak" height="180px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmetveysels&theme=tokyonight" alt="Top Languages" height="180px"/>
 </p>
 
 ---

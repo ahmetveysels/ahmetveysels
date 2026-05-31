@@ -1,66 +1,59 @@
-<h2 align="center">Hello! I'm Ahmet Veysel 👋🏻</h2>
+# Ahmet Veysel
 
-###
+**Senior Mobile Application Developer & AI Enthusiast** *Specialized in High-Performance Flutter Architecture & Local AI Integration*
 
-<p align="center">I am a curious developer in the world of software. In addition to developing mobile applications with Flutter and Dart, I have experience in coding with languages like Python and PHP. My interest in technology constantly drives me to learn and explore new projects. I see coding not just as a job but also as a form of relaxation. By sharing my projects on my GitHub profile, I aim to contribute to the software community. Don't forget to check out my projects!<br>Happy coding.</p>
+---
 
-###
+### 🚀 Overview
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="30" alt="php logo"  />
-</div>
+6+ years of experience in the mobile development ecosystem, building scalable, high-performance, and user-centric applications. Proven track record of architecting and deploying over **40+ applications** across the App Store and Google Play Store. 
 
-###
+Currently focusing on bridging mobile technologies with **on-device LLMs (Local AI)** to build privacy-first, offline-ready intelligent systems.
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/ahmetveysels/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@ahmetveysels" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-  <a href="https://twitter.com/ahmetveysels_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://t.me/GeronimoBey" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <a href="avs.sezer@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UC6gxxUKb9DCK8mwULAJTkwQ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-</div>
+---
 
-###
+### 🛠️ Core Stack & Expertise
 
-<br clear="both">
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Frameworks & Languages** | Dart, Flutter, Native Integration (iOS/Android) |
+| **State Management** | BLoC / Cubit, GetX |
+| **Database & Storage** | Hive, Isar, SQLite, Firebase, Postgres |
+| **Architecture & Patterns** | Clean Architecture, DDD, Offline-First Systems, Repository Pattern |
+| **AI & Automation** | Local LLM Integration (Ollama, DeepSeek, Qwen), LangChain, Vector DBs |
+| **Hardware & IoT** | RFID, M-Bus Protocols, Hardware Sensor Integrations |
+| **CI/CD & DevOps** | Codemagic, GitHub Actions, Fastlane, Docker |
 
-<img src="https://raw.githubusercontent.com/ahmetveysels/ahmetveysels/output/snake.svg" alt="Snake animation" />
+---
 
-###
+### 🪐 Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmetveysels&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetveysels&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ahmetveysels&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmetveysels&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+#### 🛠️ **Vocence**
+An AI-powered pronunciation coach supporting 13+ languages and 33+ dialects. Features real-time audio processing and linguistic feedback loops.
+* **Tech Stack:** Flutter, Advanced Audio Processing, Custom Signal Analytics.
 
-###
+#### 🛡️ **SafeNotes AI**
+An ongoing development of a local-first, privacy-focused AI vault. It processes PDFs, images, and audio directly on-device using local inference models.
+* **Tech Stack:** Flutter, Local LLMs (Ollama/Qwen/DeepSeek), On-Device Vector Databases.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmetveysels&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetveysels&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+#### ⚡ **Enterprise IoT & Field Operations App**
+An enterprise-grade mobile solution developed for industrial field operations, data acquisition, and real-time monitoring.
+* **Tech Stack:** Flutter, M-Bus Device Reading, RFID Hardware Scanning, Live Mapping Components, Offline-First Synchronization.
 
-###
+---
+
+### 📊 GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmetveysels&show_icons=true&theme=tokyonight&count_private=true" alt="Ahmet's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetveysels&layout=compact&theme=tokyonight&hide=html,css,javascript" alt="Top Languages" height="180px"/>
+</p>
+
+---
+
+### 📬 Connect with Me
+
+* **Portfolio:** [ahmetveysel.com](https://ahmetveysel.com)
+* **GitHub:** [github.com/ahmetveysels](https://github.com/ahmetveysels)
+* **LinkedIn:** [linkedin.com/in/ahmetveysels](https://www.linkedin.com/in/ahmetveysels/)
+* **Email:** [avs.sezer@hotmail.com](mailto:avs.sezer@hotmail.com)
